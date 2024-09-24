@@ -6,7 +6,7 @@ import CartIcon from '../common/CartIcon'
 
 const Navbar = () => {
     return (
-        <nav className="flex items-center justify-between gap-20 custom-nav">
+        <nav className="flex items-center py-6 px-16 justify-between gap-20 custom-nav">
             <div className='flex items-center gap-6'>
                 {/* Logo */}
                 <a className='text-3xl text-gray-400 font-bold gap-8' href='/'>NextBuy<span className="text-3xl text-red-500">.</span></a>

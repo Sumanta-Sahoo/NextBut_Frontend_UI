@@ -11,3 +11,5 @@ export const CartIcon = ({ bgColor }) => {
 
     )
 }
+
+export default CartIcon
